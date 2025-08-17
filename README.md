@@ -20,7 +20,7 @@ Simple and efficient OpenCV HSV color masking.
 *************************************************************************************************************************************************************************************
 📷 Demo
 
-https://www.linkedin.com/in/mahak-choubey-a38b90289/
+[https://www.linkedin.com/in/mahak-choubey-a38b90289/](https://www.linkedin.com/posts/mahak-choubey-a38b90289_opencv-python-computervision-activity-7362187576801202176-gEC_?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEYesswBRGQsJleTVM6ZowW1NNSUKv-dQJo)
 
 *************************************************************************************************************************************************************************************
 🛠️ Requirements
